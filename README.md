@@ -4,7 +4,7 @@
 - 🔗 [Website](http://faizan-ahmad.com), [LinkedIn](https://www.linkedin.com/in/faizan-ahmad-009/), [Github](https://github.com/faizan0009)
 
 ## Education
-* Bachelor’s in [Computer Science](https://www.comsats.edu.pk/AcademicPrograms.aspx) from [Comsats University Islamabad](https://www.comsats.edu.pk)  2012 - 2016
+* Bachelor’s in [Computer Science](https://www.comsats.edu.pk/AcademicPrograms.aspx) from [Comsats University Islamabad](https://www.comsats.edu.pk)  2013 - 2017
 
 ## Projects
 ### Turing Insights
