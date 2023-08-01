@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faizan Ahmad.
 - 💼 Senior Software Engineer
-- 🏆 Senior software engineer with bachelor's in computer science and six years of professional experience in React, Node.js
+- 🏆 Senior software engineer with bachelor's in computer science and six years of professional experience in React.js, Next.js, Node.js, Express.js and PostgreSql
 - 🔗 [Website](http://faizan-ahmad.com), [LinkedIn](https://www.linkedin.com/in/faizan-ahmad-009/), [Github](https://github.com/faizan0009)
 
 ## Education
